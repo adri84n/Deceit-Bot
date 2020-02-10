@@ -1,0 +1,11 @@
+!buscar = Info commands.
+
+!buscar1 = Searching 1 more player.
+
+!buscar2 = Searching 2 more players.
+
+!buscar3 = Searching 3 more players.
+
+!buscar4 = Searching 4 more players.
+
+!buscar5 = Searching 5 more players.
